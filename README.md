@@ -3,7 +3,7 @@
  
  <html>
  <head>
-     <title> Lab01 </title>
+     <title> My Resume </title>
  </head>
  
  <body>
